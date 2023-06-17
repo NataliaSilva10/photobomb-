@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caladea&family=Rubik:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+
+html,
+body,
+#root,
+.app {
+  /* height: 100%;
+  width: 100%; */
+  background: whitesmoke;
+  font-family: "Rubik", "sans-serif";
+}
+
+.theme{
+align-items: center;
+color:red;
+font-family:  "Rubik", "sans-serif";
+}
